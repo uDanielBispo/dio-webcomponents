@@ -35,3 +35,6 @@ Utilizando no HTML
 </body>
 </html>
 ```
+
+
+[curso](https://web.dio.me/track/coding-future-banco-pan-desenvolvimento-frontend-com-angular?order=undefined&page=1&search=&tab=path&track_id=7a55c727-bb2a-42a7-831b-6c38b4e83868)
